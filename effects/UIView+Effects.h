@@ -3,6 +3,7 @@
 @interface UIView (Effects)
 
 - (void)blur;
+- (void)blurInRect:(CGRect)rect;
 - (void)unBlur;
 
 @end

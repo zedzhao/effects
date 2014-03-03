@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0C3A03A9-B18C-474E-A9D5-11985621A71F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>effects</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>58993FBF-12A4-4E0F-AB0E-285E47D0D632</key>
+		<string>https://github.com/zedzhao/effects.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>effects.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>58993FBF-12A4-4E0F-AB0E-285E47D0D632</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zedzhao/effects.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>58993FBF-12A4-4E0F-AB0E-285E47D0D632</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>58993FBF-12A4-4E0F-AB0E-285E47D0D632</string>
+			<key>IDESourceControlWCCName</key>
+			<string>effects</string>
+		</dict>
+	</array>
+</dict>
+</plist>
